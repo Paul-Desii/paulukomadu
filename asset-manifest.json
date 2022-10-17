@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paulukomadu/static/css/main.0d4aa7e5.css",
+    "main.js": "/paulukomadu/static/js/main.9dcd5c7e.js",
+    "index.html": "/paulukomadu/index.html",
+    "main.0d4aa7e5.css.map": "/paulukomadu/static/css/main.0d4aa7e5.css.map",
+    "main.9dcd5c7e.js.map": "/paulukomadu/static/js/main.9dcd5c7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d4aa7e5.css",
+    "static/js/main.9dcd5c7e.js"
+  ]
+}
