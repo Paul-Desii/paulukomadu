@@ -1,0 +1,35 @@
+.paul{
+    
+    font-size: 41px;
+    margin-left: 100px;
+    letter-spacing: 2px;
+    
+    @media  (max-width: 540px){
+            margin-left: 10px;
+    }
+}
+
+.navColor{
+    background-color: #f7f7f5;
+}
+
+.navscss{
+    margin-left: 40%;
+}
+.navFlex{
+    color: black;
+    @media (min-width: 576px) {
+        margin-left: 3rem;
+        margin-right: 3rem;
+    }
+}
+.navButton {
+    border: 1px solid black;
+    color: black;
+
+    &:hover{
+        background-color: rgb(144, 171, 205);
+        border: 1px solid black;
+        
+    }
+}
