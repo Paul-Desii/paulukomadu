@@ -21,7 +21,7 @@ const Note = styled.div`
 `
 const NoteText = styled.h1`
     text-align: left;
-    font-weight: 200;
+    font-weight: 250;
     line-height: 1.8;
     letter-spacing: 5px;
     ${mobile({textAlign:'left', lineSpacing:'3px', fontSize:'20px'})}
